@@ -1,5 +1,7 @@
 # MousePinchPad
 
+**English** | [Українська](README.uk.md)
+
 **Trackpad-style pinch zoom and right-button shortcuts for any mouse on Windows 11.**
 
 An AutoHotkey v2 script that turns your right mouse button into a control layer: while it's held, the wheel and the other buttons do extra things. The main one is smooth **pinch-to-zoom, exactly like on a trackpad**, instead of the usual Ctrl+wheel page scaling.
